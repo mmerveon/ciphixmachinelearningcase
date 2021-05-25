@@ -2,15 +2,15 @@
 
 Machine Learning Case Ciphix
 
-1. <b>Use Python.</b>
+1. <b>Use Python.</b><br>
 <i>I have created a project in github to keep track of everything. I am using python for the case.</i>
 
-2. <b>Perform EDA on your data.</b>
+2. <b>Perform EDA on your data.</b><br>
 <i>I actually didn't know what EDA was. I did a little research on internet. What I understand is that, exploratory data analysis, is an approach to research data for content features, coherence, explanatory or predictive properties. 
-![afbeelding](photo1.png)</i>
+![picture](photo1.png)
+![picture](photo2.png)</i>
 
-3. <b>Preprocess your data appropriately. Think about punctuations, emoticons
-that should be removed from the raw text. The cleaner your data, the better the results!</b>
+3. <b>Preprocess your data appropriately. Think about punctuations, emoticons that should be removed from the raw text. The cleaner your data, the better the results!</b><br>
 <i></i>
 
 4. <b>Explore different (pre/pst) processing methods and explain which is best.</b>
