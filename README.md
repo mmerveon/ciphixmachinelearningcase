@@ -13,7 +13,7 @@ Machine Learning Case Ciphix
 3. <b>Preprocess your data appropriately. Think about punctuations, emoticons that should be removed from the raw text. The cleaner your data, the better the results!</b><br>
 <i></i>
 
-4. <b>Explore different (pre/pst) processing methods and explain which is best.</b>
+4. <b>Explore different (pre/pst) processing methods and explain which is best.</b> <br>
 <i> Both pre-processing and post-processing scripts run before an item or entry is saved. The difference between them is that pre-processing scripts runs before the value and validation rules checking is complete, and post-processing scripts run after these processes.
 
 What is pre processing and what is post processing.
