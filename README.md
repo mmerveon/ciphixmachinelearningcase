@@ -14,9 +14,7 @@ Machine Learning Case Ciphix
 <i></i>
 
 4. <b>Explore different (pre/pst) processing methods and explain which is best.</b> <br>
-<i> Both pre-processing and post-processing scripts run before an item or entry is saved. The difference between them is that pre-processing scripts runs before the value and validation rules checking is complete, and post-processing scripts run after these processes. 
-
-What is pre processing and what is post processing?<br><br>
+<i> Both pre-processing and post-processing scripts run before an item or entry is saved. The difference between them is that pre-processing scripts runs before the value and validation rules checking is complete, and post-processing scripts run after these processes. <br> What is pre processing and what is post processing?<br><br>
 <b>pre processing</b>: This is a pre-processing of data with a specific technique. In this process, unprocessed data is converted into an understandable format. Because real-world data is often incomplete or missing certain things.
 
 Techniques:
@@ -43,10 +41,9 @@ If the training data is noisy then the inductive algorithm generates leaves of a
 
 5. <b>Use at least 3 machine learning algorithms in order to make sense of the
 data.</b>
-<i></i>
+<i>I'm going to use linear regression, decision tree and logistic regression.</i>
 
-6. <b>Choose the best method by evaluation the different algorithms. Present
-these findings, in a way which we can easily understand what you did.</b>
+6. <b>Choose the best method by evaluation the different algorithms. Present these findings, in a way which we can easily understand what you did.</b>
 <i></i>
 
 7. <b>Provide us with the top 10 question/types of conversations.</b>
