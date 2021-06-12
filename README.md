@@ -17,6 +17,7 @@ Machine Learning Case Ciphix
 <i> Both pre-processing and post-processing scripts run before an item or entry is saved. The difference between them is that pre-processing scripts runs before the value and validation rules checking is complete, and post-processing scripts run after these processes. 
 
 What is pre processing and what is post processing.
+<br>
 <b>pre processing</b>: This is a pre-processing of data with a specific technique. In this process, unprocessed data is converted into an understandable format. Because real-world data is often incomplete or missing certain things.
 
 Techniques:
